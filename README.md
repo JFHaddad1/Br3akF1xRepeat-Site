@@ -46,4 +46,4 @@ All commands are run from the root of the project, from a terminal:
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
 
-## Git Repo URL: https://github.com/Br3akF1xRepeat/Tutorial.git
+## Git Repo URL: https://github.com/JFHaddad1/Astro-Tutorial.git
