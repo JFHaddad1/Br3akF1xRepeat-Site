@@ -46,8 +46,8 @@ All commands are run from the root of the project, from a terminal:
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
 
-## Git Repo URL: https://github.com/JFHaddad1/Astro-Tutorial.git
-## Netlify URL: https://jfhaddad1-astro-tutorial.netlify.app/
+## Git Repo URL: https://github.com/JFHaddad1/Br3akF1xRepeat-Site.git
+## Netlify URL: https://br3akf1xrepeat.netlify.app/
 
 ## Markdown Cheat Sheet: https://www.markdownguide.org/cheat-sheet/
 ## YAML Front Matter: https://assemble.io/docs/YAML-front-matter.html
